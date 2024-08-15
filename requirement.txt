@@ -1,4 +1,3 @@
-Pandas
 ZipFile
 PIL
 Matplotlib
@@ -6,4 +5,4 @@ glob
 tensorflow
 numpy
 scipy
--e
+-e .
