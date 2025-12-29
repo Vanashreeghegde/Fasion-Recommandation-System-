@@ -41,7 +41,7 @@ Anarkali suit with lavender color and intricate white patterns
 |-----------------|-----------------|-----------------|-----------------|
 | ![Rec1](link_to_image1) | ![Rec2](link_to_image2) | ![Rec3](link_to_image3) | ![Rec4](link_to_image4) |
 
-*Note: Replace the `link_to_imageX` with actual GitHub raw links or images in your repo.*
+
 
 ---
 
